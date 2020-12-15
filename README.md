@@ -1,2 +1,2 @@
-# pygames
+# PyGames
 PyGames.. Duh!
